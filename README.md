@@ -53,7 +53,7 @@ Además desarrollo **sistemas a medida** para clientes (un corralón de material
 ## Formación
 
 - **Ingeniería en Computación** — FACET, Universidad Nacional de Tucumán (2021 – actualidad)
-- **Certificación Avanzada en Full Stack Developer** — ITBA, 306 h (beca Santander Open Academy, 2024)
+- **Certificación Avanzada en Full Stack Developer** — ITBA, 306 h (beca Santander Open Academy, 2022)
 - **Argentina Programa** — #SéProgramar (2022) y #YoProgramo Web Full Stack (2023)
 - **Deep Reinforcement Learning** — Hugging Face, Certificate of Excellence (2023)
 - **Claude Code in Action, Claude Code 101 y Claude 101** — Anthropic Academy (2026)
