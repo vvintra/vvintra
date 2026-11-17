@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Lucas Lisandro Arroyo — Desarrollador full stack, Ingeniería en Computación, fundador de Sizoft">
+  <style>
+    .t { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #1f1d1a; }
+    .m { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; fill: #6b665d; letter-spacing: 3px; }
+  </style>
+  <rect width="1200" height="340" fill="#f7f5ef"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" fill="none" stroke="#1f1d1a" stroke-width="1.5"/>
+
+  <rect x="56" y="58" width="10" height="10" fill="#a73528"/>
+  <text x="80" y="68" class="m" font-size="14">DESARROLLO · INGENIERÍA · INTELIGENCIA ARTIFICIAL</text>
+  <text x="54" y="160" class="t" font-size="76" font-weight="600" letter-spacing="-3">Lucas Lisandro</text>
+  <text x="54" y="238" class="t" font-size="76" font-weight="600" letter-spacing="-3">Arroyo<tspan fill="#a73528">.</tspan></text>
+  <text x="56" y="292" class="t" font-size="20" fill="#5b574f">Desarrollador full stack · Ingeniería en Computación (UNT) · Fundador de Sizoft</text>
+
+  <g transform="translate(860 40)">
+    <rect width="260" height="260" fill="none" stroke="#1f1d1a" stroke-width="3"/>
+    <rect x="0" y="0" width="130" height="130" fill="#a73528" stroke="#1f1d1a" stroke-width="3"/>
+    <circle cx="65" cy="65" r="34" fill="none" stroke="#f7f5ef" stroke-width="16"/>
+    <rect x="130" y="0" width="130" height="130" fill="#efc64b" stroke="#1f1d1a" stroke-width="3"/>
+    <path d="M131.5 128.5 L131.5 1.5 A127 127 0 0 1 258.5 128.5 Z" fill="#2e469a" transform="rotate(90 195 65)"/>
+    <rect x="0" y="130" width="130" height="130" fill="#2e469a" stroke="#1f1d1a" stroke-width="3"/>
+    <rect x="22" y="152" width="86" height="86" fill="none" stroke="#f7f5ef" stroke-width="2"/>
+    <rect x="40" y="170" width="50" height="50" fill="none" stroke="#f7f5ef" stroke-width="2"/>
+    <rect x="56" y="186" width="18" height="18" fill="none" stroke="#f7f5ef" stroke-width="2"/>
+    <text x="195" y="218" text-anchor="middle" class="t" font-size="68" font-weight="500" letter-spacing="-4">la<tspan fill="#a73528">.</tspan></text>
+  </g>
+</svg>
