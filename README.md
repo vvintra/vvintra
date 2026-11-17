@@ -5,6 +5,7 @@
 <p>
   <a href="https://lucas-arroyo-portafolio.vercel.app"><img src="https://img.shields.io/badge/Portafolio-a73528?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio"></a>
   <a href="https://sizoft.com"><img src="https://img.shields.io/badge/Sizoft-2e469a?style=flat-square&logo=googlechrome&logoColor=white" alt="Sizoft"></a>
+  <a href="https://www.linkedin.com/in/arroyo-lucas-lisandro-117a76233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lucaslisandroarroyo02@gmail.com"><img src="https://img.shields.io/badge/Email-1f1d1a?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/_lucasarroyo/"><img src="https://img.shields.io/badge/Instagram-1f1d1a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://x.com/VintraScrip"><img src="https://img.shields.io/badge/X-1f1d1a?style=flat-square&logo=x&logoColor=white" alt="X"></a>
