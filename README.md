@@ -24,7 +24,7 @@ Fundé **[Sizoft](https://sizoft.com)**, la marca desde la que desarrollo y oper
 | **03** | **[ortografin](https://ortografin.lat)** | Iniciativa para que chicos mejoren su tipeo, ortografía y caligrafía. Próximamente como app móvil. | Next.js · React |
 | **04** | **[Portafolio](https://github.com/vvintra/Portafolio)** | Mi sitio personal, publicado en Vercel y GitHub Pages. | Next.js · Tailwind CSS |
 
-Además desarrollo **sistemas a medida** para clientes (un corralón de materiales, comercios) y exploro **IA aplicada**: generación de imágenes con modelos de difusión en local (ComfyUI, DirectML) y desarrollo asistido con Claude Code. Antes de eso hacía servicio técnico de PC e impresoras.
+Además desarrollo **sistemas a medida** para clientes (un corralón de materiales, comercios) y exploro **IA aplicada**: generación de imágenes con modelos de difusión en local (ComfyUI, DirectML; [notebook en Google Colab](https://colab.research.google.com/drive/1OyjmCLRXJCBZcjLhR8QAilYhU7r84Mpv?usp=sharing)) y desarrollo asistido con Claude Code. Antes de eso hacía servicio técnico de PC e impresoras.
 
 ## Stack
 
